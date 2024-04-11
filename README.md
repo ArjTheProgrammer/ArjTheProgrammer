@@ -1,6 +1,11 @@
 <h3 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h3>
-
 <h2 align = "center"> I am an aspiring Cloud/DevOps Engineer ☁️</h2>
+
+### 🤝 Connect with me:
+<a href="www.linkedin.com/in/joseneilsilaganjr"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="21px"/></a>
+<a href="https://www.facebook.com/silaganrj/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/Facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="21px"/></a>
+</br>
+- 💬 please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
 
