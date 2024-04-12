@@ -20,7 +20,6 @@
 
 ## 🌱 I'm currently learning
 
-- Back-end development
 - AI-900
 - CI/CD
 - Docker
