@@ -11,7 +11,7 @@
 
 
 ### 🤝 Connect with me:
-<a href="www.linkedin.com/in/joseneilsilaganjr"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="21px"/></a>
 <a href="https://www.facebook.com/silaganrj/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="21"></a>
 
 </br>
