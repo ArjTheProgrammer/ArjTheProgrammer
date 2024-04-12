@@ -1,16 +1,31 @@
 <h3 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h3>
-<h2 align = "center"> I am an aspiring Cloud/DevOps Engineer ☁️</h2>
+<h3 align = "center"> I am an aspiring Cloud/DevOps Engineer ☁️</h3>
+
+### About Me
+
+🌟 I'm passionate about **continuous learning** and have a particular interest in all things **technology**. Leveraging tech to **automate processes** and enhance efficiency excites me.
+
+💼 I'm intrigued by the **business aspects of technology** and how it drives innovation and growth within the industry.
+
+☁️ Currently, I'm on the path to pursuing a career in **cloud computing**, captivated by its vast potential and transformative power.
 
 
 ### 🤝 Connect with me:
 <a href="www.linkedin.com/in/joseneilsilaganjr"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="21px"/></a>
+<a href="https://www.facebook.com/silaganrj/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="30"></a>
+
 </br>
-- 💬 please do not hesitate to reach out to me!
+💬 please do not hesitate to reach out to me! <strong>neilsilagan@gmail.com</strong>
+
 
 ## 🌱 I'm currently learning
 
-- web Development
+- Back-end development
 - AI-900
+- CI/CD
+- Docker
+- Kubernetes
+- Terraform
   
 ## 💼 Technical Skills
 
