@@ -19,7 +19,7 @@
 
 ## 🌱 I'm currently learning
 
-- AI-900
+- Web Development
 - CI/CD
 - Docker
 - Kubernetes
