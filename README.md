@@ -1,5 +1,4 @@
 <h3 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h3>
-<h3 align = "center"> I am an aspiring Cloud/DevOps Engineer ☁️</h3>
 
 ### About Me
 
