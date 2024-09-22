@@ -2,7 +2,7 @@
 
 ### About Me
 
-🌟 I'm passionate about **continuous learning** and have a particular interest in all things **technology**. Leveraging tech to **automate processes** and enhance efficiency excites me.
+🌟 I'm passionate in all things **technology**. Leveraging tech to **automate processes** and enhance efficiency excites me.
 
 💼 I'm intrigued by the **business aspects of technology** and how it drives innovation and growth within the industry.
 
