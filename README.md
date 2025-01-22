@@ -27,7 +27,7 @@
 - Terraform
   
 ## 📋 Languages and Tools
-[![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs,spring,mysql,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 ![ArjTheProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=radical)
