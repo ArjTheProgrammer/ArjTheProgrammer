@@ -1,13 +1,11 @@
 <h3 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h3>
 <p align="center"><img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="700"/></p>
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="30px"/></a>
 <a href="https://www.facebook.com/silaganrj/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="30"></a>
 
 </br>
-</br>
-💬 please do not hesitate to reach out to me! <strong>neilsilagan@gmail.com</strong>
 
 ## 📋 Languages and Tools
 [![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs)](https://skillicons.dev)
