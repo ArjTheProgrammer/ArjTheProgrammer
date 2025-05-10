@@ -1,9 +1,10 @@
 <h3 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h3>
 <p align="center"><img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="700"/></p>
 
-## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="30px"/></a>
-<a href="https://www.facebook.com/silaganrj/"><img align="left" src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="30"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="50px"/></a>
+<a href="https://www.facebook.com/silaganrj/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="50"></a>
+</div>
 
 </br>
 
@@ -12,6 +13,10 @@
 [![language](https://skillicons.dev/icons?i=spring,mysql,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
-![ArjTheProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=radical)
+[![ArjTheProgrammer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  
+  ![ArjTheProgrammer's github activity graph](https://streak-stats.demolab.com?user=ArjTheProgrammer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
+  ![ArjTheProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=dark)
+</div>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjTheProgrammer&langs_count=5&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
