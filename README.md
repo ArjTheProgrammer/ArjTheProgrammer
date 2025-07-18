@@ -9,7 +9,7 @@
 </br>
 
 ## 📋 Languages and Tools
-[![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs,tailwindcss,zustand,firebase,shadcn,express,fastapi,spring,postgresql,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+[![language](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,html,css,mongodb,react,nodejs,zustand,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 [![ArjTheProgrammer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
