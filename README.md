@@ -9,8 +9,7 @@
 </br>
 
 ## 📋 Languages and Tools
-[![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs)](https://skillicons.dev)
-[![language](https://skillicons.dev/icons?i=spring,mysql,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=java,py,js,html,css,mongodb,react,nodejs,spring,mysql,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 [![ArjTheProgrammer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
