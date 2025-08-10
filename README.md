@@ -1,23 +1,40 @@
-<!--
-
-<h1 align = "center"> Hi! I am Jose Neil Silagan Jr. 👋</h1>
+<h1 align="center">Hi! I’m Jose Neil Silagan Jr. 👋</h1>
 <p align="center"><img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="700"/></p>
+<h3 align="center">Full Stack Developer | Cloud Engineer</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="Jose Neil Silagan Jr | LinkedIn" width="50px"/></a>
-<a href="https://www.facebook.com/silaganrj/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Jose Neil Silagan Jr | Facebook" width="50"></a>
-</div>
+<p align="center">
+I build scalable and user-friendly web applications using MERN and PERN stacks.  
+Passionate about cloud computing, backend development, and creating solutions.
+</p>
 
-</br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="LinkedIn" width="50"/></a>
+  <a href="https://www.facebook.com/silaganrj/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Facebook" width="50"/></a>
+</p>
+
+---
 
 ## 📋 Languages and Tools
-[![language](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,html,css,mongodb,react,nodejs,zustand,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
-## 📈 GitHub Stats 
-[![ArjTheProgrammer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,html,css,mongodb,react,nodejs,zustand,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
   
-  ![ArjTheProgrammer's github activity graph](https://streak-stats.demolab.com?user=ArjTheProgrammer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&card-width=500)
-  ![ArjTheProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=dark&card-width=500)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ArjTheProgrammer&theme=dark&hide_border=false&border_radius=5)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=dark)  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)
+
 </div>
 
+---
+
+## 🚀 Currently Learning
+Cloud Computing (AWS Solutions Architect Track) · Advanced Java Development · AI Integration in Web Apps  
+
+---
+
+📫 **How to reach me:** [neilsilagan@gmail.com](mailto:neilsilagan@gmail.com)
