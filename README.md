@@ -21,20 +21,9 @@ Passionate about cloud computing, backend development, and creating solutions.
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ArjTheProgrammer&theme=dark&hide_border=false&border_radius=5)  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&show_icons=true&theme=dark)  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjTheProgrammer&theme=high-contrast)
-
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" min-height="100%"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ArjTheProgrammer&theme=dark&hide_border=false" alt="GitHub Streak" min-height="100%"/>
 </div>
 
 ---
-
-## 🚀 Currently Learning
-Cloud Computing (AWS Solutions Architect Track) · Advanced Java Development · AI Integration in Web Apps  
-
----
-
-📫 **How to reach me:** [neilsilagan@gmail.com](mailto:neilsilagan@gmail.com)
