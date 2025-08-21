@@ -22,8 +22,8 @@ Passionate about cloud computing, backend development, and creating solutions.
 
 ## 📈 GitHub Stats
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" min-height="100%"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ArjTheProgrammer&theme=dark&hide_border=false" alt="GitHub Streak" min-height="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" max-width="380px"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ArjTheProgrammer&theme=dark&hide_border=false" alt="GitHub Streak" max-width="450px"/>
 </div>
 
 ---
