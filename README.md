@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I’m Jose Neil Silagan Jr. 👋</h1>
 <p align="center"><img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="700"/></p>
+<h1 align="center">Hi! I’m Jose Neil Silagan Jr. 👋</h1>
 <h3 align="center">Full Stack Developer | Cloud Engineer</h3>
 
 <p align="center">
