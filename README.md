@@ -1,13 +1,24 @@
-<p align="center"><img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="700"/></p>
-<h1 align="center">Hi! I’m Jose Neil Silagan Jr. 👋</h1>
+<img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="100%"/>
+<h1 align="center">Hi! I’m Jose Neil Silagan Jr.👋</h1>
 <h3 align="center">Full Stack Developer | Cloud Engineer</h3>
 
-<p align="center">
-I build scalable and user-friendly web applications using MERN and PERN stacks.  
-Passionate about cloud computing, backend development, and creating solutions.
+<p>
+
+I specialize in crafting reliable **software solutions**. My passion lies in designing and implementing systems that scale and perform.
+
+**Core Focus:**
+* **Backend Development**
+* **Cloud Computing**
+* Creating impactful, end-to-end solutions.
+
+**Currently Exploring:**
+* The versatility of the **Spring Framework**.
+* The future of automation with **Agentic AI**.
 </p>
 
-<p align="center">
+## 📱 Connect with me
+
+<p>
   <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="LinkedIn" width="50"/></a>
   <a href="https://www.facebook.com/silaganrj/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Facebook" width="50"/></a>
 </p>
@@ -16,7 +27,7 @@ Passionate about cloud computing, backend development, and creating solutions.
 
 ## 📋 Languages and Tools
 
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,html,css,mongodb,react,nodejs,zustand,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,html,css,mongodb,react,nodejs,zustand,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
 
 ---
 
