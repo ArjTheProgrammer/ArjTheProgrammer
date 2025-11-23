@@ -9,7 +9,6 @@ I specialize in crafting reliable **software solutions**. My passion lies in des
 **Core Focus:**
 * **Backend Development**
 * **Cloud Computing**
-* Creating impactful, end-to-end solutions.
 
 **Currently Exploring:**
 * The versatility of the **Spring Framework**.
