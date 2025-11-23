@@ -11,8 +11,8 @@ I specialize in crafting reliable **software solutions**. My passion lies in des
 * **Cloud Computing**
 
 **Currently Exploring:**
-* The versatility of the **Spring Framework**.
-* The future of automation with **Agentic AI**.
+* **Spring Framework**.
+* **Agentic AI**.
 </p>
 
 ## 📱 Connect with me
