@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/5Q23ud6ggGwV9WgtPy/giphy.gif" width="100%"/>
 <h1 align="center">Hi! I’m Rj!</h1>
-<h3 align="center">Full Stack Developer | Cloud Engineer</h3>
+<h3 align="center">Full Stack Developer and Cloud Engineer</h3>
 
 <p>
 
