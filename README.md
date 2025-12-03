@@ -27,13 +27,3 @@ I specialize in crafting reliable **software solutions**. My passion lies in des
 ## 📋 Languages and Tools
 
 [![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
-
----
-
-## 📈 GitHub Stats
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArjTheProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="380px"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ArjTheProgrammer&theme=dark&hide_border=false" alt="GitHub Streak" width="415px"/>
-</div>
-
----
