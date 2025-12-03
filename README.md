@@ -15,15 +15,15 @@ I specialize in crafting reliable **software solutions**. My passion lies in des
 * **Agentic AI**.
 </p>
 
+## 📋 Languages and Tools
+
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+
+---
+
 ## 📱 Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/joseneilsilaganjr/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/linkedin.png" alt="LinkedIn" width="50"/></a>
   <a href="https://www.facebook.com/silaganrj/"><img src="https://raw.githubusercontent.com/ArjTheProgrammer/ArjTheProgrammer/main/images/facebook.png" alt="Facebook" width="50"/></a>
 </p>
-
----
-
-## 📋 Languages and Tools
-
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
