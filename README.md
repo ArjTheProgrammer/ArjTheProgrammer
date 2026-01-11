@@ -4,8 +4,6 @@
 
 <p>
 
-I specialize in crafting reliable **software solutions**. My passion lies in designing and implementing systems that scale and perform.
-
 **Core Focus:**
 * **Backend Development**
 * **Cloud Computing**
@@ -17,7 +15,7 @@ I specialize in crafting reliable **software solutions**. My passion lies in des
 
 ## 📋 Languages and Tools
 
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,fastapi,spring,postgresql,firebase,powershell,linux,azure,aws,git,github)](https://skillicons.dev)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,spring,postgresql,firebase,powershell,linux,azure,aws,docker,git,github)](https://skillicons.dev)
 
 ---
 
