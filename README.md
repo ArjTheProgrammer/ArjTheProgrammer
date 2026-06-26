@@ -5,12 +5,12 @@
 <p>
 
 **Core Focus:**
-* **Backend Development**
-* **Cloud Computing**
+* Backend Development
+* Cloud Computing
 
 **Currently Exploring:**
-* **Infrastructure as Code**.
-* **Cotainerization and Container Orchestration**.
+* Infrastructure as Code.
+* Cotainerization and Container Orchestration.
 </p>
 
 ## 📋 Languages and Tools
