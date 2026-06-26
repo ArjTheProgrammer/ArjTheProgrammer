@@ -15,7 +15,7 @@
 
 ## 📋 Languages and Tools
 
-[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,spring,postgresql,firebase,powershell,linux,azure,aws,docker,git,github)](https://skillicons.dev)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,mongodb,react,nodejs,tailwindcss,shadcn,express,spring,postgresql,firebase,powershell,linux,azure,aws,cloudformation,terraform,docker,git,github)](https://skillicons.dev)
 
 ---
 
