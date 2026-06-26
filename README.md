@@ -9,8 +9,8 @@
 * **Cloud Computing**
 
 **Currently Exploring:**
-* **Spring Framework**.
-* **Agentic AI**.
+* **Infrastructure as Code**.
+* **Cotainerization and Container Orchestration**.
 </p>
 
 ## 📋 Languages and Tools
